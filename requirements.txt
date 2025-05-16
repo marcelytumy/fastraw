@@ -1,0 +1,4 @@
+pyinstaller
+Pillow
+rawpy
+numpy
